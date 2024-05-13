@@ -30,16 +30,23 @@ Pré-requisitos:
 Instalação:
 
 1 - Abra o arquivo IA_Prompt_Project.ipynb no Google Colab.
+
 2 - Execute a célula de código para instalar o SDK do Google Generative AI.
+
 3 - Insira sua API Key do Google na célula de código correspondente.
+
 4 - Execute as células de código restantes para configurar o modelo e iniciar o prompt interativo.
 
 Utilização:
 
 1 - Insira sua pergunta no prompt interativo.
+
 2 - Pressione Enter para enviar a pergunta ao modelo.
+
 3 - O modelo gerará uma resposta, que será exibida no prompt.
+
 4 - Continue a inserir perguntas e receber respostas até desejar sair do prompt.
+
 5 - Para sair do prompt, digite "fim" e pressione Enter.
 
 
